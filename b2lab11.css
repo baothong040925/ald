@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.v{
+    border-collapse: collapse;
+    border-color: aqua;
+}
+.v tr:nth-child(2n+1){
+    background-color: rgb(211, 209, 209);
+}
+
+.v tr:nth-child(1){
+    background-color: blue;
+    color: white;
+}
+.v tr:nth-child(2){
+    background-color: blue;
+    color: white;
+}
